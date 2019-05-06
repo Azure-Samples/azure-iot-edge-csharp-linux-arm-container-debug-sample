@@ -1,9 +1,9 @@
 {
   "modulesContent": {
-    "$edgeAgent": {
+    "$edgegent": {
       "properties.desired": {
         "schemaVersion": "1.0",
-        "runtime": {
+        "runt22ime": {
           "type": "docker",
           "settings": {
             "minDockerVersion": "v1.25",
@@ -11,7 +11,7 @@
             "registryCredentials": {}
           }
         },
-        "systemModules": {
+        "systemodules": {
           "edgeAgent": {
             "type": "docker",
             "settings": {
